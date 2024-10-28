@@ -1,0 +1,10 @@
+﻿BLUEGILL;2;12,99;uncommon;
+BASS;1,5;10,99;common;
+BASS;1,5;10,99;common;
+PIKE;1,8;9,49;legendary;
+PIKE;1,8;9,49;legendary;
+BASS;1,5;10,99;common;
+CARP;1,8;9,49;rare;
+BASS;1,5;10,99;common;
+BASS;1,5;10,99;common;
+PIKE;1,8;9,49;legendary;

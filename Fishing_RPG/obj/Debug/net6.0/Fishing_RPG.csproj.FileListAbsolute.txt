@@ -1,0 +1,14 @@
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\bin\Debug\net6.0\Fishing_RPG.exe
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\bin\Debug\net6.0\Fishing_RPG.deps.json
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\bin\Debug\net6.0\Fishing_RPG.runtimeconfig.json
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\bin\Debug\net6.0\Fishing_RPG.dll
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\bin\Debug\net6.0\Fishing_RPG.pdb
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.AssemblyInfoInputs.cache
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.AssemblyInfo.cs
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.csproj.CoreCompileInputs.cache
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.dll
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\refint\Fishing_RPG.dll
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.pdb
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\Fishing_RPG.genruntimeconfig.cache
+C:\HENRIKAS\Programavimas\Siaip\Small projects\Fishing_RPG\Fishing_RPG\obj\Debug\net6.0\ref\Fishing_RPG.dll
